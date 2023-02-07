@@ -18,9 +18,9 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
        
-        <h2>Links</h2>
+        <h3>Links</h3>
         <ul>
-          <li><a href="https://wildearth.tv/">Wild Earth</a></li>
+          <li><a href="https://app.wildearth.tv/">Wild Earth</a></li>
         </ul>
         
         {/*<Feeds />*/}
