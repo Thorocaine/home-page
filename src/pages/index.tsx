@@ -18,7 +18,12 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
        
-       <Feeds /> 
+        <h2>Links</h2>
+        <ul>
+          <li><a href="https://wildearth.tv/">Wild Earth</a></li>
+        </ul>
+        
+        {/*<Feeds />*/}
         
         {/*<div className={styles.description}>*/}
         {/*  <p>*/}
