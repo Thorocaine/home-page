@@ -3,7 +3,6 @@ import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
 import Feeds from "@/Components/feeds/Feeds";
-import HomePage from "@/Components/HomePage";
 import React from "react";
 import GuestWifi from "@/Components/GuestWifi/GuestWifi";
 
